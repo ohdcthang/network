@@ -3917,7 +3917,7 @@
                 "standard": "EIP3091"
             }
         ],
-        "gasSponsorContract": ""
+        "gasSponsorContract": "0xe39ffA0BAC3DAbE158841D23Ef63E765084a0f4c"
     },
     {
         "name": "Defi Oracle Meta Mainnet",
